@@ -4,8 +4,9 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?lines=Hi+There!%F0%9F%91%8B+I%27m+Juliyad+dinosan+Samuel+nesakumar!%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋+I'm+Juliyad+dinosan+Samuel+nesakumar!+💻" />
 </h1>
+
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
