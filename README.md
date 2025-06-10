@@ -42,6 +42,8 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
 ### Front-End Development
@@ -55,12 +57,28 @@
 ### Backend Technologies
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-000000?style=for-the-badge&logo=aspdotnet&logoColor=white)
 
 
 ### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-000000?style=for-the-badge&logo=amazonrds&logoColor=white)
+
+
+
+### Deployment Tools
+
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-000000?style=for-the-badge&logo=amazonec2&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-000000?style=for-the-badge&logo=nginx&logoColor=white)
+
+
+
+### Testing
+
+![JUnit](https://img.shields.io/badge/JUnit-000000?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-000000?style=for-the-badge&logo=mockito&logoColor=white)
 
 
 
@@ -75,7 +93,12 @@
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-000000?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-000000?style=for-the-badge&logo=rstudio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
